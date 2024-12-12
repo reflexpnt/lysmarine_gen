@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo "Publishing" 
+echo "Publishing"  
 
 set -x
 
